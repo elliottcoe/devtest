@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6c71758-3b3c-4ebc-b5cf-aa6edee9dfb9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/Nav/_resources/ts/nav.c.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Layouts/DefaultLayout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#52#90#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pages/Home/Home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#55#118#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pages/Home/Home.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controllers/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pages/AbstractPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Partials/AbstractPartial.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FrontendTestSite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <folding>
+                <element signature="e#44#60#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Slider/Slider.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Slider/Slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getTemol</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gulp/config.yml" />
+        <option value="$PROJECT_DIR$/src/Components/Link/Nav.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/Link/Nav.php" />
+        <option value="$PROJECT_DIR$/src/Components/Link/Link.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/Button/Link.php" />
+        <option value="$PROJECT_DIR$/src/Components/Button/Link.phtml" />
+        <option value="$PROJECT_DIR$/src/_assets/styles/_theme-colors.scss" />
+        <option value="$PROJECT_DIR$/src/_assets/styles/_base.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Link/_resources/styles/_link.scss" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/Nav.php" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/Nav.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/_resources/ts/hero.c.ts" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/ExamplePartial.php" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/_resources/styles/_hero.scss" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/SlideOne.php" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/HeroBanner.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/_resources/ts/hero-banner.c.ts" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/_resources/styles/_slide-one.scss" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/SlideTwo.php" />
+        <option value="$PROJECT_DIR$/src/Partials/AbstractPartial.php" />
+        <option value="$PROJECT_DIR$/src/Pages/ExamplePage/ExamplePage.php" />
+        <option value="$PROJECT_DIR$/src/Pages/ExamplePage/ExamplePage.phtml" />
+        <option value="$PROJECT_DIR$/src/Pages/Home/ExamplePage.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/Button/_resources/styles/_btn.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Slider/HeroBanner.php" />
+        <option value="$PROJECT_DIR$/src/Components/Slider/Slider.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/Slider/_resources/ts/slider.c.ts" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/_resources/styles/_slide.scss" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/_resources/styles/_slide-two.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Slider/_resources/styles/slick-slider.scss" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/SlideTwo.phtml" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/SlideThree.phtml" />
+        <option value="$PROJECT_DIR$/vendor/aktorou/frontend-test-framework/src/Components/AbstractComponent.php" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/SlideThree.php" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/SlideOne.php" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/SlideTwo.php" />
+        <option value="$PROJECT_DIR$/src/Components/Slider/Slider.php" />
+        <option value="$PROJECT_DIR$/src/Components/Button/Button.php" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/HeroBanner.php" />
+        <option value="$PROJECT_DIR$/src/Components/Link/Link.php" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/SlideOne.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/Nav/Nav.php" />
+        <option value="$PROJECT_DIR$/src/Components/Nav/_resources/ts/nav.c.ts" />
+        <option value="$PROJECT_DIR$/src/Components/Nav/Nav.phtml" />
+        <option value="$PROJECT_DIR$/src/Components/Nav/_resources/styles/_nav.scss" />
+        <option value="$PROJECT_DIR$/src/Components/HeroBanner/_resources/styles/_hero-banner.scss" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/_resources/styles/_slide-one.scss" />
+        <option value="$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/_resources/styles/_slide-two.scss" />
+        <option value="$PROJECT_DIR$/src/Pages/Home/Home.php" />
+        <option value="$PROJECT_DIR$/src/Pages/Home/Home.phtml" />
+        <option value="$PROJECT_DIR$/src/Layouts/DefaultLayout.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/packaged-ui/bem-component" />
+      <path value="$PROJECT_DIR$/vendor/packaged/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/packaged/helpers" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/packaged/http" />
+      <path value="$PROJECT_DIR$/vendor/packaged/dispatch" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/tedivm/jshrink" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/cubex/framework" />
+      <path value="$PROJECT_DIR$/vendor/aktorou/frontend-test-framework" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/packaged/event" />
+      <path value="$PROJECT_DIR$/vendor/packaged/context" />
+      <path value="$PROJECT_DIR$/vendor/packaged/ui" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/packaged/di-container" />
+      <path value="$PROJECT_DIR$/vendor/packaged/figlet" />
+      <path value="$PROJECT_DIR$/vendor/packaged/docblock" />
+      <path value="$PROJECT_DIR$/vendor/packaged/safehtml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/packaged/routing" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="27" />
+    <option name="width" value="1666" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontend-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend-test" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Partials/HeroContent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components" />
+      <recent name="$PROJECT_DIR$/src/Components/HeroBanner/_resources" />
+      <recent name="$PROJECT_DIR$/src/Components/HeroBanner/_resources/styles" />
+      <recent name="$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/_resources/img" />
+      <recent name="$PROJECT_DIR$/src/Partials/HeroContent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c71758-3b3c-4ebc-b5cf-aa6edee9dfb9" name="Default Changelist" comment="" />
+      <created>1564760571938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564760571938</updated>
+      <workItem from="1564760573664" duration="25102000" />
+      <workItem from="1565118242717" duration="261000" />
+    </task>
+    <task id="LOCAL-00001" summary="finish test setup">
+      <created>1565087024850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565087024850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25363000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Gulp" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.18864469" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2374269" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Quick Notes" order="2" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Commander" order="4" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../www-scanguard/src/_assets/ts/index.b.js.map" />
+        <option value="$PROJECT_DIR$/../www-scanguard/src/_assets/ts/index.b.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish test setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish test setup" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/_assets/styles/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Link/_resources/styles/_link.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/HeroBanner/_resources/styles/slick-slider.scss" />
+    <entry file="file://$PROJECT_DIR$/src/Components/HeroBanner/_resources/fonts/slick.eot" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Button/_resources/styles/_btn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Slider/_resources/ts/slider.c.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/HeroBanner/HeroBanner.phtml" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Slider/_resources/styles/_hero-banner.scss" />
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/_resources/styles/_slide.scss" />
+    <entry file="file://$PROJECT_DIR$/src/Components/HeroBanner/_resources/ts/hero-banner.c.ts" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Slider/_resources/styles/slick-slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Slider/_resources/ts/slider.c.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/_resources/styles/_slide-three.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/ui/src/Renderable.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/safehtml/src/ISafeHtmlProducer.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/ui/src/Html/HtmlAttributesTrait.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/ui/src/TemplateLoaderTrait.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/ui/src/Html/TemplatedHtmlElement.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/aktorou/frontend-test-framework/src/Partials/AbstractPartial.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/aktorou/frontend-test-framework/src/Pages/AbstractPage.php" />
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/SlideThree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/SlideOne.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/SlideTwo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/aktorou/frontend-test-framework/src/Components/AbstractComponent.php" />
+    <entry file="file://$PROJECT_DIR$/src/Components/AbstractComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/ui/src/Html/HtmlElement.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/packaged/ui/tests/Supporting/Html/TestHtmlElement.php" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Button/Button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/HeroBanner/HeroBanner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+          <folding>
+            <element signature="e#66#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideThree/SlideThree.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/SlideTwo.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="11" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/SlideOne.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="155" selection-start-line="16" selection-start-column="155" selection-end-line="16" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Nav/Nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#59#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Nav/Nav.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Nav/_resources/styles/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/HeroBanner/_resources/styles/_hero-banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideOne/_resources/styles/_slide-one.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/HeroContent/SlideTwo/_resources/styles/_slide-two.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/aktorou/frontend-test-framework/src/Layouts/DefaultLayout/DefaultLayout.phtml" />
+    <entry file="file://$PROJECT_DIR$/vendor/aktorou/frontend-test-framework/src/Layouts/DefaultLayout/DefaultLayout.php" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Link/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Nav/_resources/ts/nav.c.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Layouts/DefaultLayout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#52#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Home/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#55#118#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Home/Home.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/AbstractPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Partials/AbstractPartial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontendTestSite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="e#44#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Slider/Slider.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Slider/Slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
